@@ -1,6 +1,5 @@
-matplotlib
-numpy
 pandas
+matplotlib
 seaborn
-streamlit
 statsmodels
+streamlit
