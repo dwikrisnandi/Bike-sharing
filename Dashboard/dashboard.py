@@ -9,8 +9,8 @@ import statsmodels.formula.api as sm
 from statsmodels.stats.anova import anova_lm
 from statsmodels.tsa.seasonal import seasonal_decompose
 
-df_hour = pd.read_csv('hour.csv')
-df_day = pd.read_csv('day.csv')
+df_hour = pd.read_csv('Dashboard/hour.csv')
+df_day = pd.read_csv('Dashboard/day.csv')
 
 # Streamlit app title
 st.title("Bike Sharing Dashboard")
