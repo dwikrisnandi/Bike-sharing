@@ -1,5 +1,3 @@
-# prompt: buatkan kode untuk dashboard di streamlit
-
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
